@@ -13,6 +13,6 @@ Example wallet with all transaction types: https://creeper.banano.cc/explorer/ac
 If you're having trouble, try creating two bookmarks in your browswer.  Copy the code from Step 1 into the first bookmark and copy the code from Step 2 into the second bookmark
 
 Click here for alternate instructions:
-https://gfycat.com/blanddifferentfawn
+https://gfycat.com/glumpotableblesbok
 
 Contact me on Discord if you're having issues: @BeardlessDuck#9999
