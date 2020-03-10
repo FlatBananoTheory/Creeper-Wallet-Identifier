@@ -1,6 +1,9 @@
 # Creeper-Wallet-Identifier
 Bookmarklet for Creeper Banano network explorer to identify wallet owners
 
+![Example Output](https://i.imgur.com/it2lT76.png)
+
+
 1. Right click UFW Tool.html and click "Save as"
 ![SaveAsScreenshot](https://i.imgur.com/ZhQwshQ.png)
 
