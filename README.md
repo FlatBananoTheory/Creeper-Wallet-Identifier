@@ -15,4 +15,6 @@ Contact me on Discord if you're having issues: @BeardlessDuck#9999
 
 Bookmarklets in action:
 https://imgur.com/a/OiEuWlZ
+
+
 **Step 3 is no longer necessary**
