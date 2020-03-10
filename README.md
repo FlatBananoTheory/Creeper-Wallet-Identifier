@@ -25,5 +25,8 @@ Click here for a video of the alternate instructions:
 
 https://gfycat.com/disgustingposhamericanpainthorse
 
+# How to Use the Bookmarklets
+
+https://gfycat.com/defensivefasthoneycreeper
 
 Contact me on Discord if you're having issues: @BeardlessDuck#9999
