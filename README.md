@@ -7,7 +7,7 @@ Bookmarklet for Creeper Banano network explorer to identify wallet owners
 
 # Instructions
 
-1. Right click UFW Tool.html and click "Save as"
+1. Right click the appropriate UFW_Tool and click "Save as"
 ![SaveAsScreenshot](https://i.imgur.com/ZhQwshQ.png)
 
 
@@ -17,11 +17,13 @@ Bookmarklet for Creeper Banano network explorer to identify wallet owners
 
 Example wallet with all transaction types: https://creeper.banano.cc/explorer/account/ban_38w7mszkp1wha5p3bkj8zwtqm9k8dcqp498eujyymqke4a4prmdn1qf5z13t/history
 
+# Alternate Instructions
+
 If you're having trouble, try creating two bookmarks in your browswer.  Copy the code from Step 1 into the first bookmark and copy the code from Step 2 into the second bookmark
 
-Click here for alternate instructions:
+Click here for a video of the alternate instructions:
 
-https://gfycat.com/glumpotableblesbok
+https://gfycat.com/disgustingposhamericanpainthorse
 
 
 Contact me on Discord if you're having issues: @BeardlessDuck#9999
