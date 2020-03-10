@@ -2,7 +2,9 @@
 Bookmarklet for Creeper Banano network explorer to identify wallet owners
 
 1. Right click UFW Tool.html and click "Save as"
-https://i.imgur.com/ZhQwshQ.png
+![SaveAsScreenshot](https://i.imgur.com/ZhQwshQ.png)
+Format: ![SaveAsScreenshot](url)
+
 
 2. Import the bookmarklets into your browser.  
 
