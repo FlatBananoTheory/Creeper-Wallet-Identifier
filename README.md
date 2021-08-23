@@ -3,11 +3,13 @@
 
 Changes:
 
-    Added all addresses from Kirby's API
-    Added JungleTV addresses and more (provided by Airtune)
-    Temporarily removed https://ba.nanotipbot.com API (Telegram / Twitter) because it is no longer maintained. This will be added back in once ownership of the Telegram / Twitter bot is handed over to someone new.
+Added all addresses from Kirby's API
 
+Added JungleTV addresses and more (provided by Airtune)
 
+Temporarily removed https://ba.nanotipbot.com API (Telegram / Twitter) because it is no longer maintained. This will be added back in once ownership of the Telegram / Twitter bot is handed over to someone new.
+
+==================================
 
 # Creeper-Wallet-Identifier
 Bookmarklet for Creeper Banano network explorer to identify wallet owners
